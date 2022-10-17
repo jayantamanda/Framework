@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T11:59:18 IST" name="Default suite" finished-at="2022-10-14T12:00:15 IST" duration-ms="56695">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T11:59:18 IST" name="Default test" finished-at="2022-10-14T12:00:15 IST" duration-ms="56695">
+      <class name="practice.DataProvider_Product">
+        <test-method signature="productDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:practice.DataProvider_Product@6babf3bf]" started-at="2022-10-14T11:59:18 IST" name="productDetails" data-provider="dataProvider_test" finished-at="2022-10-14T11:59:41 IST" duration-ms="22779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hplaptop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.hplaptopp.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[H001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetails -->
+        <test-method signature="productDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:practice.DataProvider_Product@6babf3bf]" started-at="2022-10-14T11:59:41 IST" name="productDetails" data-provider="dataProvider_test" finished-at="2022-10-14T11:59:58 IST" duration-ms="16846" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AcerLaptop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.acer.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[a001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetails -->
+        <test-method signature="productDetails(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:practice.DataProvider_Product@6babf3bf]" started-at="2022-10-14T11:59:58 IST" name="productDetails" data-provider="dataProvider_test" finished-at="2022-10-14T12:00:15 IST" duration-ms="16993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DellLaptop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.dell.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[de001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetails -->
+      </class> <!-- practice.DataProvider_Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
